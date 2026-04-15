@@ -72,7 +72,7 @@ The 2025 comparison is therefore best read as evidence of forecast breakdown und
 ## Repository structure
 
 ```text
-trade-balance-regime-instability_public/
+rade-balance-regime-instability/
 ├── README.md
 ├── requirements.txt
 ├── .gitignore
