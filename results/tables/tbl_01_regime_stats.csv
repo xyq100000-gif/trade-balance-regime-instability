@@ -1,0 +1,8 @@
+metric,value
+fd_variance_pre_1992_1999,1.749564929003359
+fd_variance_post_2000_2024,17.477261163587794
+fd_variance_ratio_post_over_pre,9.989489886233446
+baseline_residual_variance_ratio_full,8.982296297658507
+baseline_residual_variance_ratio_post2000,1.934464569673263
+levene_stat_pre_vs_post_fd,41.44429340168026
+levene_p_pre_vs_post_fd,3.548396792915194e-10
